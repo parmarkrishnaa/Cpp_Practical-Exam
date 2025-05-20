@@ -2,9 +2,9 @@
 
 <img src="./img/q_1.png" alt=""/>
 
-<h4>Q.2. Create a multilevel inheritance structure with:
-- Class 1: Student – to input student name
-- Class 2: Marks – to input marks of 3 subjects using array
+<h4>Q.2. Create a multilevel inheritance structure with: <br>
+- Class 1: Student – to input student name <br>
+- Class 2: Marks – to input marks of 3 subjects using array <br>
 - Class 3: Result – to calculate and display total and percentage.</h4>
 
 <img src="./img/q_2.png" alt=""/>
@@ -14,15 +14,15 @@ products. Input and display all product details.</h4>
 
 <img src="./img/q_3.png" alt=""/>
 
-<h4>Q.4. Create a base class Shape. Derive two classes:
-- Circle – to calculate area of a circle
+<h4>Q.4. Create a base class Shape. Derive two classes: <br>
+- Circle – to calculate area of a circle <br>
 - Rectangle – to calculate area of a rectangle</h4>
 
 <img src="./img/q_4.png" alt=""/>
 
-<h4>Q.5. Create a menu-driven program that performs the following using a vector of strings:
-- Add a student name
-- View all student names
+<h4>Q.5. Create a menu-driven program that performs the following using a vector of strings: <br>
+- Add a student name <br>
+- View all student names <br>
 - Delete student name by index</h4>
 
 <img src="./img/q_5_1.png" alt=""/>
